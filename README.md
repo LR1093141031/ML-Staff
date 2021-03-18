@@ -1,2 +1,2 @@
-# ML-Staff
-MachineLearningStaff
+# ML-Stuff
+MachineLearningStuff
